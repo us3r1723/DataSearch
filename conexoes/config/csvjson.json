@@ -1,0 +1,83 @@
+[
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "Cleveris",
+        "table": "db_modelo",
+        "columnToSearch": "CPF_FAKE",
+        "tipo": "CPF"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "YourLGPD",
+        "columnToSearch": "CPF_FAKE",
+        "tipo": "CPF"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "applicant_personal_data_CPF",
+        "columnToSearch": "CPF",
+        "tipo": "CPF"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "applicant_personal_data_CPF",
+        "columnToSearch": "Email",
+        "tipo": "EMAIL"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "YourLGPD",
+        "columnToSearch": "Nome_UPN",
+        "tipo": "EMAIL"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "applicant_personal_data_CPF",
+        "columnToSearch": "Nome_para_exibição",
+        "tipo": "NOME"
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "applicant_personal_data_CPF",
+        "columnToSearch": "ID_CLIENTE",
+        "tipo": ""
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "db_modelo_telefone",
+        "columnToSearch": "ID_CLIENTE",
+        "tipo": ""
+    },
+    {
+        "host": "192.168.1.104",
+        "user": "banco",
+        "password": "test1723",
+        "database": "banco1",
+        "table": "db_modelo_telefone",
+        "columnToSearch": "TELEFONE",
+        "tipo": "TELEFONE"
+    }
+]
